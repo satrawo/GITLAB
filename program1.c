@@ -2,6 +2,9 @@
 
 void main ()
 {
-  int i=999;
-  int j=8888;
+
+  int i=1;
+  int j=2;
+  int a=3;
+
 }
