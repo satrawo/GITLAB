@@ -2,6 +2,6 @@
 
 void main ()
 {
-  int i=0;
+  int i=0 , a=1, b=2;
   int j=0;
 }
